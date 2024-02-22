@@ -1,0 +1,5 @@
+- 👋 Hello, my name is David
+- 👀 I have a keen interest in the blockchain industry
+- 🌱 Currently, I am expanding my knowledge in new blockchain technologies
+- 💞️ I am open to collaborating on any blockchain projects
+- 📫 You can reach me at dlin35042@gmail.com
